@@ -32,5 +32,6 @@ public static void testLoadData() throws Exception
  PatientRecordSystem prs = new PatientRecordSystem();
  prs.loadData();
  System.out.println(prs);
+ System.out.println(prs);
 }
 }
