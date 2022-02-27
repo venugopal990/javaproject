@@ -28,6 +28,6 @@ count = count+1;
 }  
 }  
 //prints the nth prime number  
-System.out.println("The " +n +"th prime numbers is: " + num);  
+System.out.println("The " +n +"th prime numbers is printing: " + num);  
 }  
 }  
